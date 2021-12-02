@@ -1,0 +1,9 @@
+certifi==2021.10.8
+charset-normalizer==2.0.8
+idna==3.3
+Naked==0.1.31
+pycryptodome==3.11.0
+PyYAML==6.0
+requests==2.26.0
+shellescape==3.8.1
+urllib3==1.26.7
